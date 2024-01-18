@@ -4,7 +4,6 @@ t = turtle.Turtle()
 s = turtle.Screen()
 s.title("Drawing with a Square: French Fries")
 
-# Tulislah kode mu dibawah sini
 t.speed(1)
 t.shape("classic")
 t.write("see the console")
